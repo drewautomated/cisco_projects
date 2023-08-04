@@ -1,2 +1,3 @@
 # cisco_projects
-Ansible projects for the configuration of Cisco Devices
+
+This is my awesome Ansible repository for the configuration of Cisco devices!
